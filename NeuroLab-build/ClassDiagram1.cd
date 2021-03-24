@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_DGraphics.Graphics3D" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AyCIboAGAPBHAgKAE4KTAAcGFHgjOgQVAAEETQGAMBI=</HashCode>
+      <FileName>3DGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_DGraphics.Coord" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAACAACAAAAAAAAAAAEAAAAAEAgAABgARAAAAA=</HashCode>
+      <FileName>Coord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.AssociationMemoryForm" Collapsed="true">
+    <Position X="0.5" Y="8" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAIABACAAAAAAAgiABAACAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>AssociationMemoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.ClassificationGraphics" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQYBwIgACBAIAQxIEiAhECuIAMhgAhgACAASSAAAAE=</HashCode>
+      <FileName>ClassificationGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.ClassificationGraphicsForm" Collapsed="true">
+    <Position X="6" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassificationGraphicsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.ColorGridForm" Collapsed="true">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AWhQEY2BCjABAARqAAihDAAGAIAAgAKmCAAFGAAAMAE=</HashCode>
+      <FileName>ColorGridForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.DataComboBox" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAABAAAAADAAAAAQAIAAAAACAAABAAAAAAQAAA=</HashCode>
+      <FileName>DataComboBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.Drawer" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBLLpAJAICLAI1jBAgCQEI4UhFAwHgBIYCBgSABICQA=</HashCode>
+      <FileName>Drawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.Form1" Collapsed="true">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAAAIAAAACgAAACAAAEAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.HopfieldNeuronNet" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAEQAggAAAQBEAAASAAAAAAEAAAAAAwAgE=</HashCode>
+      <FileName>HopfieldNeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.KohonenNeuronNet" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAQBCAAICAAAAAAEAAAAAAwCAA=</HashCode>
+      <FileName>KohonenNeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.LinearNeuronNet" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>LinearNeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.LinearSystemGraphics" Collapsed="true">
+    <Position X="11.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQAAACAAAACAAACAwAAAQQAAABABAA=</HashCode>
+      <FileName>LinearSystemGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.LinearSystemTask" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACIAAAACAAAAAAAAAABAAAACAAACAIEAAAAABwAAE=</HashCode>
+      <FileName>LinearSystemTask.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.LinearSystemTaskForm" Collapsed="true">
+    <Position X="16.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAQACcOAAYBEAAgDGBBgqCAAIAxgABHAAAGACIgQ=</HashCode>
+      <FileName>LinearSystemTaskForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.LoadSaveTasks" Collapsed="true">
+    <Position X="18.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAKAIAKSIADSAAACoAIACBMC4EAAYkBIACAEAAgE=</HashCode>
+      <FileName>LoadSaveTasks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.Matrix" Collapsed="true">
+    <Position X="17.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAABAAAAAQAaAUAAEAAAAAAAAAIAECQAgBAAAA=</HashCode>
+      <FileName>Matrix.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.NetOptions" Collapsed="true">
+    <Position X="13" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAEAAACAAFFAAAAChAAQCgAEKAgQAGGAAgAAAAAE=</HashCode>
+      <FileName>NetOptoins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.NetViewForm" Collapsed="true">
+    <Position X="16.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>NetViewFrom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.NeuroninputInformation" Collapsed="true">
+    <Position X="11.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACEAAACAAAIAAAAAEAAEAAAAAA=</HashCode>
+      <FileName>NeuronEnterInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.NeuronGraphics" Collapsed="true">
+    <Position X="9.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>C4LH5ooFhKFQwigbBMCkKtRLixCxUwRIIWCxEAAiChE=</HashCode>
+      <FileName>NeuronGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.MouseStatus" Collapsed="true">
+    <Position X="16" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAgAAAAAAAQAAAAAAAAQAIAAAAAAAAA=</HashCode>
+      <FileName>NeuronGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.NeuronInformation" Collapsed="true">
+    <Position X="18.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAQAEAAASAAAEBAAAAAA=</HashCode>
+      <FileName>NeuronInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.NeuronInput" Collapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAUAAAAAACAAAAAAIAAAAAA=</HashCode>
+      <FileName>NeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.Sinaps" Collapsed="true">
+    <Position X="17.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAIAAAAAAAAMAAAAiAAAAAACAAAAAABAAQAAA=</HashCode>
+      <FileName>NeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.Neuron" Collapsed="true">
+    <Position X="12.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAICQQAAADAhkIAAgBAEAAAQACAAAAAAApAgAAQA=</HashCode>
+      <FileName>NeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.NeuronGroup" Collapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAABAACAIAAAAAAAAAAAgACEEAAAAAAAAAA=</HashCode>
+      <FileName>NeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.StudyPair" Collapsed="true">
+    <Position X="14.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAEEIAAAAAAAAAEABAAAAAAAAAAAAA=</HashCode>
+      <FileName>NeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.RecognitionResult" Collapsed="true">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.NeuronNet" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gMEQCYIQCAkBBAACAAUQLIYCNDgAAdwFEAQAEigxogE=</HashCode>
+      <FileName>NeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.ObjectNameForm" Collapsed="true">
+    <Position X="14.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAYAAAIEGAAAAAAAAA=</HashCode>
+      <FileName>ObjectNameForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.ParameterListForm" Collapsed="true">
+    <Position X="14.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAABAACAAACAAgADgAgACAAA4BwAAAYgAAAAQYAA=</HashCode>
+      <FileName>ParameterListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.Program" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.RandomArray" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAACAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>RandomArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.RBFNeuralNet" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>RBFNeuralNet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.RegressionForm" Collapsed="true">
+    <Position X="9.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAYIYSIGDFACBwICgCoRgACEBAZAFAAyCEAACAEIAA=</HashCode>
+      <FileName>RegressionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.ShowErrorForm" Collapsed="true">
+    <Position X="7.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAACACAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShowErrorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.StudyFunctionForm" Collapsed="true">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="System.Windows.Forms.Form" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="6.691" />
+        <Point X="5.75" Y="7.625" />
+        <Point X="9.5" Y="7.625" />
+        <Point X="9.5" Y="7.441" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABAAAACgAgBCAQAAAAAAEAAAAABAAAA=</HashCode>
+      <FileName>StudyFunctionForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.StudyPairModifier" Collapsed="true">
+    <Position X="13" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAIAAACIAABAAAACACAACAAAYAABAAEACAAAAAAA=</HashCode>
+      <FileName>StudyPairModifier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorGrid.ColorGrid" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCEAABAihRAgAAAQmAAAACgBAQCBAAIgAQAgICAAA=</HashCode>
+      <FileName>ColorGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorGrid.GridItem" Collapsed="true">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColorGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorGrid.MouseStatus" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAgAAAAAAAQAAAAAAAAQAIAAAAAAAAA=</HashCode>
+      <FileName>ColorGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database.ConnectToDatabase" Collapsed="true">
+    <Position X="14.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAIAAAgAIAABAAAADAJgAAAQAAAhAAAAAAgABAAI=</HashCode>
+      <FileName>ConnectToDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database.ConnectToDatabaseForm" Collapsed="true">
+    <Position X="7.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAADAAACAAQBAAAACAAIACAAA4AAAAAAAAAAABAAA=</HashCode>
+      <FileName>ConnectToDatabaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.Properties.Resources" Collapsed="true">
+    <Position X="16" Y="4.75" Width="1.5" />
+    <InheritanceLine Type="System.Object" FixedFromPoint="true">
+      <Path>
+        <Point X="9.75" Y="3.875" />
+        <Point X="10.125" Y="3.875" />
+        <Point X="10.125" Y="4.437" />
+        <Point X="16.375" Y="4.437" />
+        <Point X="16.375" Y="4.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Neuron.Properties.Settings" Collapsed="true">
+    <Position X="23.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.UserControl" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.ComboBox" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.ListControl" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Control" Collapsed="true">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.ComponentModel.Component" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.MarshalByRefObject" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Configuration.ApplicationSettingsBase" Collapsed="true">
+    <Position X="23.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Configuration.SettingsBase" Collapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Neuron.typeView" Collapsed="true">
+    <Position X="20.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Drawer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Neuron.ActivationFunction" Collapsed="true">
+    <Position X="20.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAgIAAAUAAEAAAAAAAKAA=</HashCode>
+      <FileName>NeuronNet.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
